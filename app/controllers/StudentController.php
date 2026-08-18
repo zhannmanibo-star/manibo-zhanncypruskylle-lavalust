@@ -11,7 +11,7 @@ class StudentController extends Controller {
       
         $data['student'] = [
           
-            'student_id'        => '2026-0001',
+            'student_id'        => '2024-00211',
             'name'              => 'Zhann Cyprus Kylle R. Mañibo',
             'profile_pic'       => 'profile.jpg',
             'course'            => 'BS Information Technology',
